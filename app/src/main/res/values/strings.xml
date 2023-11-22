@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Calculator</string>
+    <string name="app_name">Калькулятор</string>
+    <string name="number1_name">Операнд №1</string>
+    <string name="number2_name">Операнд №2</string>
+    <string name="number_result_name">Результат</string>
+    <string name="button_addition_name">+</string>
+    <string name="button_subtraction_name">−</string>
+    <string name="button_division_name">÷</string>
+    <string name="button_multiplication_name">×</string>
 </resources>
