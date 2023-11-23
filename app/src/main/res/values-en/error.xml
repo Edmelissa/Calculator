@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="error_operand1">Operand №1 not specified</string>
-    <string name="error_operand2">Operand №2 not specified</string>
-    <string name="error_operands">Operands not specified</string>
-    <string name="error_operation">Operation not specified</string>
-</resources>
