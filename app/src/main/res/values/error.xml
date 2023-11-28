@@ -4,4 +4,5 @@
     <string name="error_operand2">Операнд №2 не задан</string>
     <string name="error_operands">Операнды не заданы</string>
     <string name="error_operation">Операция не задана</string>
+    <string name="error_division_by_zero">Деление на ноль</string>
 </resources>
